@@ -3,9 +3,19 @@
 #   push:
 #     branches:
 #       - main
+<<<<<<< HEAD
 # jobs:
 #   test:
 
+=======
+#       - feature
+
+# env:
+#   MONGODB_DB_NAME: gha-demo
+# jobs:
+#   test:
+
+>>>>>>> feature
 #     environment: testing
 #     env:
 #       MONGODB_CLUSTER_ADDRESS: cluster0.yhupnie.mongodb.net
