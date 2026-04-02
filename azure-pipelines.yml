@@ -2,7 +2,7 @@
 trigger:
   branches:
     include:
-      - main
+      - dev1
 pr: none
 
 jobs:
